@@ -26,9 +26,7 @@ body:
       label: 机器码
       description: 请输入您的机器码：
       placeholder: |
-        <!--
-        eyJ2Ijoid2lufDEuMS41IiwiaSI6InRhb3poaXl1IiwibCI6IlRBT1pISVlVIHwgNTJwb2ppZSB8IFdpbmRvd3MifQ==
-        -->
+eyJ2Ijoid2lufDEuMi41IiwiaSI6IndZYm81RjA4d2ciLCJsIjoiREVTS1RPUC1IVklFN0w2IHwgZ2FsYXh5IHwgV2luZG93cyJ9
       value: |
         <!--
         eyJ2Ijoid2lufDEuMS41IiwiaSI6InRhb3poaXl1IiwibCI6IlRBT1pISVlVIHwgNTJwb2ppZSB8IFdpbmRvd3MifQ==
@@ -42,7 +40,7 @@ body:
       description: 您想使用的用户名
       placeholder: |
         <!--
-        taozhiyu@52pojie.cn
+        laoyu
         -->
       value: |
         <!--
